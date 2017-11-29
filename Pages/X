@@ -46,8 +46,8 @@
 </div>
  
    <ul class="pager">
-  <li><a href="#">Previous</a></li>
-  <li><a href="Pages/Lecturas.html">Next</a></li>
+  <li><a href="Multimedia.html">Previous</a></li>
+<li><a href="Actividades.html">Next</a></li>
 </ul> 
     </div>
    
