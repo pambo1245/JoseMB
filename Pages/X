@@ -18,21 +18,7 @@
 		  <div class="container-fluid">
 			<div class="navbar-header">
 			  <a class="navbar-brand" href="#"> Seguridad Informatica</a>
-			</div>
-         
-			<ul class="nav navbar-nav">
-			  <li class="active"><a href="Index.html">Inicio</a></li>
-			  <li><a href="Pages/Lecturas.html"> Lecturas</a></li>
-			  <li><a href="Pages/Multimedia.html"> Multimedia</a></li>
-			  <li><a href="Pages/Multimedia.html">X</a></li>
-			  <li><a href="Pages/Actividades.html"> Actividades</a></li>
-			  <li><a href="Pages/Autor.html"> Autores </a></li>
-				
-			  
-			  </ul>
-        
-		  </div>
-		</nav>
+			
         <div>
         <div class="container">
   <h2>Seguridad Informatica</h2>
