@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Diseno de Sitios Web ">
+    <meta name="author" content="Grupo_301122_80">
+
+    <title> Disenos de Sitios WEB </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body background="../images/b.jpg">
+
+	<div class="container">
+		<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+			<div class="navbar-header">
+			  <a class="navbar-brand" href="#"> Seguridad Informatica</a>
+			
+			  </div>
+         
+			<ul class="nav navbar-nav">
+			  <li class="active"><a href="../Index.html">Inicio</a></li>
+			  <li><a href="Lecturas.html"> Lecturas</a></li>
+			  <li><a href="Multimedia.html"> Multimedia</a></li>
+			  <li><a href="Actividades.html"> Actividades</a></li>
+			  <li><a href="Autor.html"> Autores </a></li>
+			  
+			  </ul>
+        
+		  </div>
+		</nav>
+        <div class="container">
+          <div class="panel panel-default">
+       <div class="panel-body">
+        <h3><span>Actividades<span>&nbsp;</span><br><span>&nbsp;</span><P ALIGN="justify"></P></span></h3>
+	<h3><span>Confidencialidad: Sólo los usuarios autorizados pueden acceder a nuestros recursos, datos e información.<span>&nbsp;</span><br><span>&nbsp;</span><P ALIGN="justify"></P></span></h3>
+	<h3><span>Integridad: Sólo los usuarios autorizados deben ser capaces de modificar los datos cuando sea necesario.<span>&nbsp;</span><br><span>&nbsp;</span><P ALIGN="justify"></P></span></h3>
+	<h3><span>Disponibilidad: Los datos deben estar disponibles para los usuarios cuando sea necesario.<span>&nbsp;</span><br><span>&nbsp;</span><P ALIGN="justify"></P></span></h3>
+	<h3><span>Autenticación: Estás realmente comunicándote con los que piensas que te estás comunicando.<span>&nbsp;</span><br><span>&nbsp;</span><P ALIGN="justify"></P></span></h3>
+</div>
+ 
+   <ul class="pager">
+  <li><a href="Multimedia.html">Previous</a></li>
+  <li><a href="Autor.html">Next</a></li>
+</ul> 
+    </div>
+        <footer>
+<div class="container">
+<nav class="navbar navbar-default">
+<a aling="center" class="navbar-brand" >Copyright © 2017 Carlos Alberto Dorado - Jose Suleimar Muñoz Burbano- Curso Diseno de Sitios Web</a>
+</div>
+</footer>
+</body>
+</body>
+</html>
